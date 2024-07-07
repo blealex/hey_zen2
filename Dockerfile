@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 8080
 
 # Set the default command to run the bot
-CMD ["python", "bot.py"]
+CMD ["python3", "bot.py"]
